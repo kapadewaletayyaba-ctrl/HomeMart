@@ -40,3 +40,7 @@ A modern, responsive, and feature-rich frontend e-commerce web application built
 - **HTML5:** Semantic document structure.
 - **CSS3 / Tailwind CSS:** Utility-first framework for layout, styling, and responsive design.
 - **JavaScript (ES6+):** Dynamic DOM🚀 How to Run Locally
+## 🌐 Live Demo
+
+Check out the live interactive website:
+👉 [https://kapadewaletayyaba-ctrl.github.io/HomeMart/](https://kapadewaletayyaba-ctrl.github.io/HomeMart/)
